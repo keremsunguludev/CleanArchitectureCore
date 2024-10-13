@@ -1,15 +1,29 @@
 # CleanArch.Core
 
-## Proje Alt Bileşenleri
+## Proje Amacı
+Bu proje, Clean Architecture prensiplerine uygun bir şekilde genel bir altyapı katmanı sunar. Farklı domain ve iş kurallarından bağımsızdır, bu yüzden restoran otomasyonu veya araç galerisi gibi farklı projelere kolayca entegre edilebilir.
 
-### Core.Application
-Uygulama mantığını ve iş kurallarını içerir. 
-- **Common**: Ortak bileşenler ve yardımcı sınıflar.
-- **Events**: Domain olayları.
-- **Exceptions**: Özel hata sınıfları.
-- **Interfaces**: Uygulama içindeki arayüzler.
+## Katmanlar
 
-### Core.Infrastructure
-Altyapı ile ilgili bileşenleri içerir.
-- **Persistence**: Veritabanı ile ilgili işlemler.
-- **Repositories**: Veri erişim katmanı.
+### 1. **Core.Application**
+- **Common**: Genel kullanım için yardımcı sınıflar ve uzantılar.
+  - `DateTimeHelper.cs`, `ValidationHelper.cs` gibi sınıfları içerir.
+- **Middlewares**: Hata yönetimi middleware sınıfı.
+  - `ExceptionHandlingMiddleware.cs`
+- **Exceptions**: Uygulama genelinde kullanılan özel hata sınıfları.
+  - `NotFoundException.cs`, `ValidationException.cs` vb.
+  
+### 2. **Core.Infrastructure**
+- **Caching**: Cache işlemleri için kullanılan yönetici sınıflar.
+  - `MemoryCacheManager.cs`: Bellek tabanlı cache yönetimi.
+  - `RedisCacheManager.cs`: Redis tabanlı cache yönetimi.
+- **Data**: Sayfalama ve veri yönetimi işlemleri.
+  - `Paginate.cs`, `BasePageableModel.cs` vb.
+- **Repositories**: Genel repository yapıları ve entity tanımları.
+  - `EfRepositoryBase.cs`: Entity Framework tabanlı genel repository.
+- **Services**: E-posta gönderim gibi genel servisler.
+  - `SmtpEmailSender.cs`
+
+## Bağımlılıklar
+- **Entity Framework Core**
+- **StackExchange.Redis**
