@@ -1,0 +1,24 @@
+# .NET
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Assembly Info
+**/AssemblyInfo.cs
+**/AssemblyInfoInput*
+
+# Build results
+*.exe
+*.dll
+*.pdb
+*.app
+
+# Others
+.vscode/
+*.log
