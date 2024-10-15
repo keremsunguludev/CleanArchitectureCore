@@ -10,3 +10,16 @@
 /Users/keremsungulu/Desktop/Projects/CleanArch.Core/src/Core.Application/obj/Debug/net8.0/Core.Application.pdb
 /Users/keremsungulu/Desktop/Projects/CleanArch.Core/src/Core.Application/obj/Debug/net8.0/ref/Core.Application.dll
 /Users/keremsungulu/Desktop/Projects/CleanArch.Core/src/Core.Application/obj/Debug/net8.0/Core.Application.csproj.AssemblyReference.cache
+/Users/keremsungulu/Desktop/Projects/CleanArchitectureCore/src/Core.Application/bin/Debug/net8.0/Core.Application.deps.json
+/Users/keremsungulu/Desktop/Projects/CleanArchitectureCore/src/Core.Application/bin/Debug/net8.0/Core.Application.dll
+/Users/keremsungulu/Desktop/Projects/CleanArchitectureCore/src/Core.Application/bin/Debug/net8.0/Core.Application.pdb
+/Users/keremsungulu/Desktop/Projects/CleanArchitectureCore/src/Core.Application/obj/Debug/net8.0/Core.Application.csproj.AssemblyReference.cache
+/Users/keremsungulu/Desktop/Projects/CleanArchitectureCore/src/Core.Application/obj/Debug/net8.0/Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keremsungulu/Desktop/Projects/CleanArchitectureCore/src/Core.Application/obj/Debug/net8.0/Core.Application.AssemblyInfoInputs.cache
+/Users/keremsungulu/Desktop/Projects/CleanArchitectureCore/src/Core.Application/obj/Debug/net8.0/Core.Application.AssemblyInfo.cs
+/Users/keremsungulu/Desktop/Projects/CleanArchitectureCore/src/Core.Application/obj/Debug/net8.0/Core.Application.csproj.CoreCompileInputs.cache
+/Users/keremsungulu/Desktop/Projects/CleanArchitectureCore/src/Core.Application/obj/Debug/net8.0/Core.Application.sourcelink.json
+/Users/keremsungulu/Desktop/Projects/CleanArchitectureCore/src/Core.Application/obj/Debug/net8.0/Core.Application.dll
+/Users/keremsungulu/Desktop/Projects/CleanArchitectureCore/src/Core.Application/obj/Debug/net8.0/refint/Core.Application.dll
+/Users/keremsungulu/Desktop/Projects/CleanArchitectureCore/src/Core.Application/obj/Debug/net8.0/Core.Application.pdb
+/Users/keremsungulu/Desktop/Projects/CleanArchitectureCore/src/Core.Application/obj/Debug/net8.0/ref/Core.Application.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/keremsungulu/Desktop/Projects/CleanArch.Core/src/Core.Application/Core.Application.csproj": {}
+    "/Users/keremsungulu/Desktop/Projects/CleanArchitectureCore/src/Core.Application/Core.Application.csproj": {}
   },
   "projects": {
-    "/Users/keremsungulu/Desktop/Projects/CleanArch.Core/src/Core.Application/Core.Application.csproj": {
+    "/Users/keremsungulu/Desktop/Projects/CleanArchitectureCore/src/Core.Application/Core.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/keremsungulu/Desktop/Projects/CleanArch.Core/src/Core.Application/Core.Application.csproj",
+        "projectUniqueName": "/Users/keremsungulu/Desktop/Projects/CleanArchitectureCore/src/Core.Application/Core.Application.csproj",
         "projectName": "Core.Application",
-        "projectPath": "/Users/keremsungulu/Desktop/Projects/CleanArch.Core/src/Core.Application/Core.Application.csproj",
+        "projectPath": "/Users/keremsungulu/Desktop/Projects/CleanArchitectureCore/src/Core.Application/Core.Application.csproj",
         "packagesPath": "/Users/keremsungulu/.nuget/packages/",
-        "outputPath": "/Users/keremsungulu/Desktop/Projects/CleanArch.Core/src/Core.Application/obj/",
+        "outputPath": "/Users/keremsungulu/Desktop/Projects/CleanArchitectureCore/src/Core.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/keremsungulu/.nuget/NuGet/NuGet.Config"

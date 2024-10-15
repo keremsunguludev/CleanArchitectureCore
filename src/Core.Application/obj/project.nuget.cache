@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ww6JANcajXw=",
+  "dgSpecHash": "0orNT2aGekE=",
   "success": true,
-  "projectFilePath": "/Users/keremsungulu/Desktop/Projects/CleanArch.Core/src/Core.Application/Core.Application.csproj",
+  "projectFilePath": "/Users/keremsungulu/Desktop/Projects/CleanArchitectureCore/src/Core.Application/Core.Application.csproj",
   "expectedPackageFiles": [
     "/Users/keremsungulu/.nuget/packages/microsoft.aspnetcore.http/2.2.2/microsoft.aspnetcore.http.2.2.2.nupkg.sha512",
     "/Users/keremsungulu/.nuget/packages/microsoft.aspnetcore.http.abstractions/2.2.0/microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
